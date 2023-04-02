@@ -1,0 +1,25 @@
+{
+  "compilerOptions": {
+    "module": "esnext",
+    "target": "es6",
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "sourceMap": true,
+    "allowJs": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "noImplicitThis": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "baseUrl": "./",
+    "rootDir": "./",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "incremental": true
+  },
+  "include": [
+    "*",
+  ],
+}
